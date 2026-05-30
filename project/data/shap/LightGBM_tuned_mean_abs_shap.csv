@@ -1,0 +1,9 @@
+model,feature,mean_abs_shap
+LightGBM tuned,GenHlth,0.6918551091829952
+LightGBM tuned,HighBP,0.5209994119231559
+LightGBM tuned,Age,0.47488809942594623
+LightGBM tuned,BMI,0.4423604323750788
+LightGBM tuned,HighChol,0.30637697815261605
+LightGBM tuned,HvyAlcoholConsump,0.08161169176663989
+LightGBM tuned,HeartDiseaseorAttack,0.07351352204856154
+LightGBM tuned,DiffWalk,0.05972523340571534
