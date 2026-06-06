@@ -1,9 +1,0 @@
-model,feature,mean_abs_shap
-XGBoost tuned,GenHlth,0.66016567
-XGBoost tuned,HighBP,0.4900921
-XGBoost tuned,Age,0.43815693
-XGBoost tuned,BMI,0.43548697
-XGBoost tuned,HighChol,0.29680148
-XGBoost tuned,HeartDiseaseorAttack,0.080366425
-XGBoost tuned,DiffWalk,0.07066938
-XGBoost tuned,HvyAlcoholConsump,0.06566386
